@@ -1,7 +1,7 @@
 <h1>Hey, nice to see you!</h1>
 
 Welcome to my page! <br>
-I'm Bojan, Web & Java developer from  Vienna, Austria.
+I'm Bojan, Web- & Software Engineer from  Vienna, Austria.
 
 <h3>Technologies I use:</h3>
 
