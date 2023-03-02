@@ -41,8 +41,6 @@
  💬 &emsp; Ask me about anything [here](https://github.com/bojantrb/bojantrb/issues)
   
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
 
