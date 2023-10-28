@@ -6,7 +6,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Bojan Trbojevic</a></b>
+                <b><a target="_blank" href="#">Bojan</a></b>
         </samp>
 </h3>
 
