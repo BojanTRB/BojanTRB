@@ -20,18 +20,6 @@
   </samp>
 </p>
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/bojantrb/bojantrb/issues)
-</p>
-<br/>
-
 ## Use To Code
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
