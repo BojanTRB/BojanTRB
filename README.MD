@@ -20,16 +20,6 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="https://stackoverflow.com/users/17213049/bojan" target="blank">
-  <img src="https://img.shields.io/badge/Stackoverflow-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="bojan" />
- </a>
- <a href="https://dev.to/bojantrb" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="bojan" />
- </a>
-</p>
-<br />
-
 <!-- About Section -->
  # About me
  
@@ -39,7 +29,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/bojantrb/bojantrb/issues)
-  
+</p>
 <br/>
 
 ## Use To Code
